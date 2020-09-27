@@ -1,8 +1,3 @@
-//IP Address:41.210.141.167
-//Password: hF4IFFGqNGD9mFcJ
-//MongoDB Connection: mongodb+srv://TITech:<password>@cluster0-nqhfj.mongodb.net/test?retryWrites=true&w=majority
-
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
